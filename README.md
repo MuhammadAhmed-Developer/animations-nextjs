@@ -4,7 +4,6 @@ A modern, interactive landing page for SPYLT protein drinks built with Next.js a
 
 ![SPYLT Screenshot](./public/images/spylt.png)
 
-**[Click here to visit the live web app](https://spylt-1pvi.vercel.app/)**
 
 ## Overview
 
@@ -168,15 +167,6 @@ npm run dev
 - Smooth 60fps animations
 - Lazy loading components
 
-## Deployment
 
-The project is deployed on Vercel. [Click here to visit the live web app](https://spylt-1pvi.vercel.app/)
-
-To deploy your own version:
-
-1. Push your code to GitHub
-2. Import the project in Vercel
-3. Configure environment variables if needed
-4. Deploy
 
 Built with Next.js, React, TypeScript, GSAP, and Tailwind CSS
